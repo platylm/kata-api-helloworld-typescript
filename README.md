@@ -80,6 +80,11 @@ npm install -s express @types/express
 npm install -D @types/express
 ```
 
+## compile API
+```
+npm run tsc && node dist/index.js
+```
+
 # Test
 
 ```
