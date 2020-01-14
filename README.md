@@ -70,6 +70,16 @@ npm install -d ts-jest
   ....
 ```
 
+## install library express for API
+```
+npm install -s express @types/express
+```
+
+## install dev dependencies express
+```
+npm install -D @types/express
+```
+
 # Test
 
 ```
